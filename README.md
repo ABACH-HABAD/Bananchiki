@@ -34,4 +34,4 @@ ___Жирный наклонный текст (bold italic)___
 
 :black_square_button: делать или не делать, вот в чем вопрос?   
 
-![Alt-текст]([https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк"](https://static.zerochan.net/Morikura.En.full.2693112.png)https://static.zerochan.net/Morikura.En.full.2693112.png)
+![Alt-текст](https://static.zerochan.net/Morikura.En.full.2693112.png)
