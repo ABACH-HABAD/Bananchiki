@@ -34,4 +34,6 @@ ___Жирный наклонный текст (bold italic)___
 
 :black_square_button: делать или не делать, вот в чем вопрос?   
 
+[Текст ссылки](https://ya.ru/?ysclid=lrvsizw03u510142589)
+
 ![Alt-текст](https://static.zerochan.net/Morikura.En.full.2693112.png)
