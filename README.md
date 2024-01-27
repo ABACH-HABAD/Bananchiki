@@ -7,7 +7,6 @@ daba daba
 magic omi
 dubi dubi
 bom bom bom bom bom
-##Адольф Гитлер
 ~~Зачеркнутый текст~~
 **Жирный текст (bold)**
 *Наклонный текст (italic)*
