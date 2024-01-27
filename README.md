@@ -7,4 +7,4 @@ daba daba
 magic omi
 dubi dubi
 bom bom bom bom bom
-# ois
+# Адольф Гитлер
