@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.exe
+C:\Users\peter\source\repos\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.deps.json
+C:\Users\peter\source\repos\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.runtimeconfig.json
+C:\Users\peter\source\repos\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.dll
+C:\Users\peter\source\repos\ListBox\ListBox\bin\Debug\net8.0-windows\ListBox.pdb
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.FormList.resources
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.AssemblyInfo.cs
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.dll
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\refint\ListBox.dll
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.pdb
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ListBox.genruntimeconfig.cache
+C:\Users\peter\source\repos\ListBox\ListBox\obj\Debug\net8.0-windows\ref\ListBox.dll

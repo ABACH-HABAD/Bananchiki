@@ -1,0 +1,16 @@
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\bin\Debug\net8.0-windows\DataIVremya.exe
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\bin\Debug\net8.0-windows\DataIVremya.deps.json
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\bin\Debug\net8.0-windows\DataIVremya.runtimeconfig.json
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\bin\Debug\net8.0-windows\DataIVremya.dll
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\bin\Debug\net8.0-windows\DataIVremya.pdb
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.Form1.resources
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.AssemblyInfo.cs
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.dll
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\refint\DataIVremya.dll
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.pdb
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\DataIVremya.genruntimeconfig.cache
+C:\Users\peter\source\repos\DataIVremya\DataIVremya\obj\Debug\net8.0-windows\ref\DataIVremya.dll
